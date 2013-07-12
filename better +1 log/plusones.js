@@ -19,7 +19,7 @@
 
   var
     // insert your key from the Api Console here
-    apiKey = "YOUR_API_KEY",
+    apiKey = "35370693f064b4de5b1e69c66201807197a76a4f",
     
     // Those might change at any point without prior notice...
     nodeClass1 = "aZTfpe",
